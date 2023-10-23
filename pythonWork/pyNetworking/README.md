@@ -1,0 +1,11 @@
+https://www.bogotobogo.com/cplusplus/sockets_server_client.php
+
+TODO:
+
+https://www.bogotobogo.com/python/python_network_programming_server_client_file_transfer.php
+
+https://www.bogotobogo.com/python/python_network_programming_tcp_server_client_chat_server_chat_client_select.php
+
+https://www.bogotobogo.com/python/python_network_programming_socketserver_framework_for_network_servers.php
+
+https://www.bogotobogo.com/python/python_network_programming_socketserver_framework_for_network_servers_asynchronous_request_ThreadingMixIn_ForkingMixIn.php

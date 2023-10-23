@@ -1,0 +1,17 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: bogo
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: bogo
+  template:
+    metadata:
+      labels:
+        app: bogo
+    spec:
+      containers:
+        - name: bogo
+          image: dockerbogo/bogo
