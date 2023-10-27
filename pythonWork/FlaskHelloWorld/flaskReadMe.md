@@ -25,6 +25,18 @@ def hello_world():
 4. function!
 
 
+##run on windows
+1. open power shell
+2. cd into project
+3. add env ` $env:FLASK_APP = "hello.py"`
+4. run `.venv\Scripts\activate` to go into venv
+5. If you need to run  `pip install Flask`
+6. run `flask run`
+7. its live now! you can go to the url 
+
+
+
+
 ## To Run
 unix
 ```
@@ -47,3 +59,4 @@ Alternative
 export FLASK_APP=hello.py
 $ python -m flask run
 ```
+
