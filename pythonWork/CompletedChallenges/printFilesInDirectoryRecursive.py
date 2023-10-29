@@ -10,3 +10,9 @@ def recursivelyPrintFiles(parentDir):
 
 path = str(input("Enter a path to recursively print files from: "))
 recursivelyPrintFiles(path)
+
+# get the directory
+# make a loop to go through everything in a directory
+    # if its a directory call the function on itself
+    # if its a file print it out
+ 
