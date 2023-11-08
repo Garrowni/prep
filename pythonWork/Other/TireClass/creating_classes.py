@@ -1,3 +1,8 @@
+##########################################################
+# Car Class
+# 
+# To be used with tire.py
+##########################################################
 class Car:
     """
     Car models a car w/ tires and an engine

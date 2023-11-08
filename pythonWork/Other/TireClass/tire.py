@@ -1,8 +1,14 @@
+##########################################################
+# tire.py
+# 
+# To be used with creating_classes.py to show how classes
+# in python work
+##########################################################
 import math
 
 class Tire:
   """
-  Tire represetns a tire that woudl be used with a car.
+  Tire represents a tire that would be used with a car.
   """
 
   def __init__(self, tire_type, width, ratio, diameter, brand='', construction='R'):
@@ -58,4 +64,4 @@ class SnowTire(Tire):
  
   def __repr__(self):
     return super().__repr__() + "  (Snow)"
-  #super calles the representation of itself on its parent
+  #super calls the representation of itself on its parent

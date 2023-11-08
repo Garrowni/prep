@@ -1,4 +1,10 @@
-# echo_server.py
+##########################################################
+# Echo Server
+# 
+# Used with client.py
+# handles server side of the echo server.
+# uses sockets - https://docs.python.org/3/library/socket.html
+##########################################################
 import socket
 
 host = ''        # Symbolic name meaning all available interfaces

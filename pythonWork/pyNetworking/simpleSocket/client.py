@@ -1,4 +1,10 @@
-# client.py  
+##########################################################
+# client.py for simple socket
+# 
+# Used with server.py
+# handles client side of the server.
+# uses sockets - https://docs.python.org/3/library/socket.html
+##########################################################
 import socket
 
 # create a socket object

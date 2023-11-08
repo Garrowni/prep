@@ -1,3 +1,6 @@
+##########################################################
+# Check if a certain file exists.
+##########################################################
 import os
 
 path = os.path.expanduser('~/Documents/')

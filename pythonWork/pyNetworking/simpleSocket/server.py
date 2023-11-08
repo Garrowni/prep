@@ -1,4 +1,10 @@
-# server.py 
+##########################################################
+# simple socket server
+# 
+# Used with client.py
+# handles server side.
+# uses sockets - https://docs.python.org/3/library/socket.html
+##########################################################
 import socket                                         
 import time
 
