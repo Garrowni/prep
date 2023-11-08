@@ -1,8 +1,14 @@
-#Task:
-#Convert all lower case to upper case and all upper case to lower case
-#example PythonROCKS 2 --> pYTHONrocks 2
-#no imports allowed
-
+##########################################################
+# Swap Case
+# Convert all lower case to upper case and all upper case
+# to lower case
+#
+# NO imports allowed
+#
+# Example:
+# Input:  PythonROCKS 2
+# Return: pYTHONrocks 2
+##########################################################
 userString = input("Enter the string: ")
 print(userString)
 

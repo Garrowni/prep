@@ -1,3 +1,9 @@
+##########################################################
+# Rock Paper Scissors : Basic
+# 
+# Basic and unoptimized version to show if elif logic.
+##########################################################
+
 import random, sys
 
 

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #ip_list file looks like this
 #88.249.123.246 GET 200
 #204.14.121.43 GET 200
